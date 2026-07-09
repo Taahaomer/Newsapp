@@ -9,7 +9,6 @@ A modern, responsive news application built with **React.js** that delivers the 
 * 📰 View the latest top headlines
 * 📂 Browse news by category
 
-  * General
   * Business
   * Entertainment
   * Health
