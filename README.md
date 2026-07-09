@@ -133,7 +133,7 @@ screenshots/
 ```
 
 ```markdown
-![Home](screenshots/home.png)
+![Home](./screenshots/home.png)
 
 ![Science](screenshots/science.png)
 ```
