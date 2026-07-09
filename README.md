@@ -131,12 +131,13 @@ screenshots/
 ├── home.png
 ├── science.png
 ```
+## 📸 Screenshots
 
-```markdown
+### Home
 ![Home](screenshots/home.png)
 
+### Science
 ![Science](screenshots/science.png)
-```
 
 ---
 
