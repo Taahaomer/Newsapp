@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 47282,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tina Nguyen",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I…",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+      "publishedAt": "2026-06-10T17:25:32Z",
+      "content": "\u003Cul\u003E\u003Cli\u003E\u003C/li\u003E\u003Cli\u003E\u003C/li\u003E\u003Cli\u003E\u003C/li\u003E\u003C/ul\u003E\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb… [+7531 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Paresh Dave",
+      "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+      "description": "Activists say it’s the first time big tech employees have publicly called for regulations governing data center projects.",
+      "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+      "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
+      "publishedAt": "2026-06-03T18:07:11Z",
+      "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre… [+3254 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ej Dickson",
+      "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
+      "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.",
+      "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
+      "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
+      "publishedAt": "2026-06-12T10:30:00Z",
+      "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu… [+3728 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it ha…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
+      "publishedAt": "2026-06-10T23:42:48Z",
+      "content": "\u003Cul\u003E\u003Cli\u003E\u003C/li\u003E\u003Cli\u003E\u003C/li\u003E\u003Cli\u003E\u003C/li\u003E\u003C/ul\u003E\r\nSince the competition wont buy their tech, theyre bringing it directly to users.\r\nSince the competition wont buy their tech, theyre bringing it directly to users… [+2359 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "Cearvol’s Wave Design Fights Off Hearing Loss and Aging Stigma",
+      "description": "Cearvol’s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
+      "url": "https://www.wired.com/review/review-cearvol-wave-lite/",
+      "urlToImage": "https://media.wired.com/photos/6a0f6cd13cc9755a1bff8136/191:100/w_1280,c_limit/Review%20Cearvol%20Wave%20Lite%20top%20art%20052026%20SOURCE%20Cearvol.jpg",
+      "publishedAt": "2026-05-26T09:00:00Z",
+      "content": "Alas, enhancing ambient audio just isnt the Wave Lites forte. Across all of its modes and various settings, I was only able to achieve a moderate improvement to my hearing. As noted, while the units … [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "All the Ways Europe Is Ditching American Technology",
+      "description": "A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big Tech.",
+      "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
+      "urlToImage": "https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/191:100/w_1280,c_limit/All-Ways-Europe-Ditching-US-Tech-Security.jpg",
+      "publishedAt": "2026-06-08T06:00:00Z",
+      "content": "Europe is done with American Big Tech. Well, sort of. Since the start of President Donald Trumps chaotic second administration last year, concerned governments and companies across the continent have… [+2955 chars]"
+    }
+  ]
+}
